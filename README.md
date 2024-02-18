@@ -8,8 +8,15 @@
 ## Tecnologias utilizadas
  
 :elephant: PostgreSQL
+SQL
+Phyton
+Power Bi
+
 
 ## Organización
-
+Trello
+Slack
+Calendly
+Discord
 
 
