@@ -5,5 +5,5 @@
 
 > Cat & Perry ofrece al equipo de adopción de un refugio de animales una herramienta efectiva para gestionar el proceso de adopción y seguimiento de mascotas, mejorando así la eficiencia y la experiencia tanto para el equipo como para los adoptantes potenciales.
 
-## ![Database Icon](https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png) Tecnologias utilizadas
-
+## Tecnologias utilizadas
+![SQL Icon](https://img.icons8.com/color/452/sql.png)
