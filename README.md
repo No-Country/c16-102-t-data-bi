@@ -35,4 +35,5 @@ En este proyecto, hemos utilizado las siguientes tecnologías:
 
 -Limpieza , tansformacion ,Analisis y exploracion de datos **Python**, - **Power BI**
  
- Organización
+- Organización
+ **Trello**, - **Slack**, - **Calendly**, **discord**
