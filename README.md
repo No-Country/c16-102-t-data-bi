@@ -1,6 +1,6 @@
 # Bienvenid@s al ProyectoPets de NoCountry
 ![Cat   perry (3)](https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/f27af524-c140-427d-a1c2-09ee79bdd6d9)
 
-**Este proyecto tiene como objetivo analisis de datos y machine learning de un un refugio de animales**
-
 ## Acerca del Proyecto
+
+> Cat & Perry ofrece al equipo de adopción del refugio de animales una herramienta efectiva para gestionar el proceso de adopción y seguimiento de mascotas, mejorando así la eficiencia y la experiencia tanto para el equipo como para los adoptantes potenciales.
