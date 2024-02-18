@@ -7,14 +7,16 @@ Este proyecto tiene como objetivo analisis de datos y machine learning de un un 
 ## Participantes y roles
 
 - Miranda Lucas:
-               ETL:  https://github.com/No-Country/c16-102-t-data-bi/blob/main/Connect_and_populate.ipynb
+
+  ETL:  https://github.com/No-Country/c16-102-t-data-bi/blob/main/Connect_and_populate.ipynb
   
-               Machine Learning :
+   Machine Learning :
   
 - Castillo Dora:
-                Analista de datos: https://github.com/No-Country/c16-102-t-data-bi/blob/limpieza-datos/intakes_outcomes_1.ipynb
+
+  Analista de datos: https://github.com/No-Country/c16-102-t-data-bi/blob/limpieza-datos/intakes_outcomes_1.ipynb
   
-                Extracción y Transformación de Datos: https://github.com/No-Country/c16-102-t-data-bi/blob/limpieza-datos/limpiezaML.ipynb
+  Extracción y Transformación de Datos: https://github.com/No-Country/c16-102-t-data-bi/blob/limpieza-datos/limpiezaML.ipynb
   
 - Ariza Laura: Analista de datos y Analista bi
 - Tapia Estefania  Analista de datos y Analista bi
@@ -34,7 +36,6 @@ En este proyecto, hemos utilizado las siguientes tecnologías:
   
 - Base de datos **PostgreSQL**, **SQL** 
 
--Limpieza , tansformacion ,Analisis y exploracion de datos **Python**, - **Power BI**
+- Limpieza  tansformacion ,Analisis y exploracion de datos **Python**, - **Power BI**
  
-- Organización
- **Trello**, - **Slack**, - **Calendly**, **discord**
+- Organización  **Trello**, - **Slack**, - **Calendly**, **discord**
