@@ -7,7 +7,7 @@
 
 ## Tecnologias utilizadas
  
-elephant: PostgreSQL
+:elephant: PostgreSQL
 
 
 
