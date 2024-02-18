@@ -7,4 +7,7 @@
 
 ## Tecnologias utilizadas
 
-:elephant: PostgreSQL
+\`\`\`markdown
+:black_square: **PostgreSQL**
+\`\`\`
+
