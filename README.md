@@ -22,15 +22,24 @@ Este proyecto tiene como objetivo analisis de datos y machine learning de un ref
 - Tapia Estefania  Analista de datos y Analista bi
 
 
-## Objetivos
+##Acerda del proyecto:
 
 El objetivo del proyecto "Análisis de Adopciones y Abandono de Mascotas" es desarrollar un dasboard que permita al equipo de adopción del refugio de animales gestionar de manera eficiente el proceso de adopción y seguimiento de mascotas. Este sistema deberá abordar las necesidades y requerimientos identificados en las user stories confeccionadas en la etapa inicial. https://github.com/No-Country/c16-102-t-data-bi/blob/limpieza-datos/userstories.rtf.
 Al abordar estos aspectos, el proyecto logrará su objetivo de proporcionar al equipo de adopción del refugio de animales una herramienta efectiva para gestionar el proceso de adopción y seguimiento de mascotas, mejorando así la eficiencia y la experiencia tanto para el equipo como para los adoptantes potenciales.
 
 ## Tecnologías Utilizadas
 
-En este proyecto, hemos utilizado las siguientes tecnologías:
+## Tecnologías Utilizadas
 
-- Tecnologías usadas : SQL, PostgreSQL, Python, power bi, 
+En este proyecto, hemos utilizado las siguientes tecnologías:
+  
+- Base de datos **PostgreSQL**, **SQL** 
+
+-Limpieza , tansformacion ,Analisis y exploracion de datos **Python**, - **Power BI**
+ 
+ Organización
+- **Trello**, - **Slack**, - **Calendly**, **discord**
+
+
 
 
