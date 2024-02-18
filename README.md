@@ -1,21 +1,31 @@
-Bienvenido al proyecto c16-102-t-data-bi- ProyectoPets de NoCountry
-Logo de proyecto
+## Bienvenido al proyecto c16-102-t-data-bi- ProyectoPets de NoCountry
 
-Este proyecto tiene como objetivo análisis de datos y machine learning de un un refugio de animales
+![Logo de proyecto]([ruta/al/logotipo.png](https://drive.google.com/file/d/1jkqSIL0eb6Xvb5boSg8GeVNBumLJ9w0D/view?usp=sharing))
 
-Participantes y roles
-Miranda Lucas: ETL: https://github.com/No-Country/c16-102-t-data-bi/blob/main/Connect_and_populate.ipynb Aprendizaje automático:
+Este proyecto tiene como objetivo analisis de datos y machine learning de un un refugio de animales
 
-Castillo Dora: Analista de datos: https://github.com/No-Country/c16-102-t-data-bi/blob/limpieza-datos/intakes_outcomes_1.ipynb Extracción y Transformación de Datos: https://github.com/No-Country/c16-102-t-data-bi/blob/limpieza-datos/limpiezaML.ipynb
+## Participantes y roles
 
-Ariza Laura: Analista de datos y Analista bi
+- Miranda Lucas:
+               ETL:  https://github.com/No-Country/c16-102-t-data-bi/blob/main/Connect_and_populate.ipynb
+               Machine Learning :
+- Castillo Dora:
+                Analista de datos: https://github.com/No-Country/c16-102-t-data-bi/blob/limpieza-datos/intakes_outcomes_1.ipynb
+                Extracción y Transformación de Datos: https://github.com/No-Country/c16-102-t-data-bi/blob/limpieza-datos/limpiezaML.ipynb
+  
+- Ariza Laura: Analista de datos y Analista bi
+- Tapia Estefania  Analista de datos y Analista bi
 
-Tapia Estefania Analista de datos y Analista bi
 
-Objetivos
-El objetivo del proyecto "Análisis de Adopciones y Abandono de Mascotas" es desarrollar un dasboard que permita al equipo de adopción del refugio de animales gestionar de manera eficiente el proceso de adopción y seguimiento de mascotas. Este sistema deberá abordar las necesidades y requerimientos identificados en las user stories confeccionadas en la etapa inicial. https://github.com/No-Country/c16-102-t-data-bi/blob/limpieza-datos/userstories.rtf. Al abordar estos aspectos, el proyecto logrará su objetivo de proporcionar al equipo de adopción del refugio de animales una herramienta efectiva para gestionar el proceso de adopción y seguimiento de mascotas, mejorando así la eficiencia y la experiencia tanto para el equipo como para los adoptantes potenciales.
+## Objetivos
 
-Tecnologías Utilizadas
+El objetivo del proyecto "Análisis de Adopciones y Abandono de Mascotas" es desarrollar un dasboard que permita al equipo de adopción del refugio de animales gestionar de manera eficiente el proceso de adopción y seguimiento de mascotas. Este sistema deberá abordar las necesidades y requerimientos identificados en las user stories confeccionadas en la etapa inicial. https://github.com/No-Country/c16-102-t-data-bi/blob/limpieza-datos/userstories.rtf.
+Al abordar estos aspectos, el proyecto logrará su objetivo de proporcionar al equipo de adopción del refugio de animales una herramienta efectiva para gestionar el proceso de adopción y seguimiento de mascotas, mejorando así la eficiencia y la experiencia tanto para el equipo como para los adoptantes potenciales.
+
+## Tecnologías Utilizadas
+
 En este proyecto, hemos utilizado las siguientes tecnologías:
 
-Tecnologías usadas : SQL, PostgreSQL, Python, power bi,
+- Tecnologías usadas : SQL, PostgreSQL, Python, power bi, 
+
+
