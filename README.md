@@ -1,19 +1,22 @@
 ## Bienvenido al proyecto c16-102-t-data-bi- ProyectoPets de NoCountry
 
-![Logo de proyecto]([ruta/al/logotipo.png](https://drive.google.com/file/d/1jkqSIL0eb6Xvb5boSg8GeVNBumLJ9w0D/view?usp=sharing))
+!([ruta/al/logotipo.png](https://drive.google.com/file/d/1jkqSIL0eb6Xvb5boSg8GeVNBumLJ9w0D/view?usp=sharing))
 
-Este proyecto tiene como objetivo analisis de datos y machine learning de un un refugio de animales
+Este proyecto tiene como objetivo analisis de datos y machine learning de un refugio de animales.
 
 ## Participantes y roles
 
 - Miranda Lucas:
                ETL:  https://github.com/No-Country/c16-102-t-data-bi/blob/main/Connect_and_populate.ipynb
+  
                Machine Learning :
 - Castillo Dora:
                 Analista de datos: https://github.com/No-Country/c16-102-t-data-bi/blob/limpieza-datos/intakes_outcomes_1.ipynb
+  
                 Extracción y Transformación de Datos: https://github.com/No-Country/c16-102-t-data-bi/blob/limpieza-datos/limpiezaML.ipynb
   
 - Ariza Laura: Analista de datos y Analista bi
+- 
 - Tapia Estefania  Analista de datos y Analista bi
 
 
