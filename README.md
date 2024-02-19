@@ -45,7 +45,7 @@
 - Machine Learning
 
 
-## Acerca del proyecto :pencil:
+## :pencil: Acerca del proyecto :pencil:
 
 Este proyecto tiene como objetivo utilizar el poder de los datos para aumentar las tasas de adopción de animales en refugios. Para ello, se implementarán diversas técnicas de análisis de datos y Machine Learning.
 
@@ -55,7 +55,7 @@ Este dashboard diseñado deberá abordar las necesidades y requerimientos identi
 
 Al abordar estos aspectos, el dashboard logrará su objetivo de proporcionar al equipo de adopción del refugio de animales una herramienta efectiva para gestionar el proceso de adopción y seguimiento de mascotas, mejorando así la eficiencia y la experiencia tanto para el equipo como para los adoptantes potenciales.
 
-## Herramientas utilizadas :mag:
+## 🛠 Herramientas utilizadas 🛠
 En este proyecto, hemos utilizado las siguientes tecnologías:
 
 - **SQL**:
@@ -78,7 +78,7 @@ En este proyecto, hemos utilizado las siguientes tecnologías:
    - ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
      
      
-## Contacto :mailbox:
+## :mailbox: Contacto :mailbox:
 ![Ln](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
