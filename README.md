@@ -20,6 +20,8 @@ Este proyecto tiene como objetivo analisis de datos y machine learning de un un 
   
 - Ariza Laura: Analista de datos y Analista bi
 - Tapia Estefania  Analista de datos y Analista bi
+- Facundo Cuello
+- Pablo Brizzi
 
 
 ## Acerca del proyecto
