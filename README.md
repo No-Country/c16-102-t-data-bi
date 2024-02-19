@@ -36,7 +36,7 @@
 - Analista de datos
 - Analista BI
   
-**Facundo Cuello **Tapia Estefanía [@facu-cuello](https://www.github.com/facu-cuello):**:**
+**Facundo Cuello [@facu-cuello](https://www.github.com/facu-cuello):**
 
 - Analista de datos
 - ETL
