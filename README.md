@@ -1,4 +1,4 @@
-![image](https://github.com/facu-cuello/facu-cuello/assets/117863707/053ff14f-d82e-4c3f-a754-48c495e8d451)# Bienvenid@s a Cat & Perry, Prediciendo Sonrisas 
+# Bienvenid@s a Cat & Perry, Prediciendo Sonrisas 
 
 
   
