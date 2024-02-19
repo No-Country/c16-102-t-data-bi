@@ -12,29 +12,31 @@
 
 ## Equipo :man: :woman: :man: :woman:  :woman: 
 
-**Miranda Lucas:**
+**Miranda Lucas [@x3naroth](https://www.github.com/x3naroth):**
 
 - [ETL](https://github.com/No-Country/c16-102-t-data-bi/blob/main/Connect_and_populate.ipynb)
 
 - Aprendizaje automático: En desarrollo
+  
 
-**Castillo Dora:**
+- [@octokatherine](https://www.github.com/octokatherine)
+**Castillo Dora  [@Docasti](https://www.github.com/docasti):**
 
 - [Analista de datos](https://github.com/No-Country/c16-102-t-data-bi/blob/limpieza-datos/intakes_outcomes_1.ipynb)
   
 - [Extracción y Transformación de Datos](https://github.com/No-Country/c16-102-t-data-bi/blob/limpieza-datos/limpiezaML.ipynb)
 
-**Ariza Laura:**
+**Ariza Laura [@laura-ariza](https://www.github.com/laura-ariza):**
 
 - Analista de datos
 
 - Analista BI
 
-**Tapia Estefanía:**
+**Tapia Estefanía [@TefiTapia](https://www.github.com/TefiTapia):**
 - Analista de datos
 - Analista BI
   
-**Facundo Cuello:**
+**Facundo Cuello **Tapia Estefanía [@facu-cuello](https://www.github.com/facu-cuello):**:**
 
 - Analista de datos
 - ETL
