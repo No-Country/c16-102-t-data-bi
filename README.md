@@ -11,7 +11,6 @@
 ![Bootstrap](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353538)
 ![Bootstrap](https://img.shields.io/badge/-PowerBi-05122A?style=flat-square&logo=Python&color=353538)
-Power Bi
 
 
 ## Organización
