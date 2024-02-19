@@ -20,6 +20,8 @@
   
 
 - [@octokatherine](https://www.github.com/octokatherine)
+
+  
 **Castillo Dora  [@Docasti](https://www.github.com/docasti):**
 
 - [Analista de datos](https://github.com/No-Country/c16-102-t-data-bi/blob/limpieza-datos/intakes_outcomes_1.ipynb)
