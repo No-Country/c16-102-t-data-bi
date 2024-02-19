@@ -14,7 +14,7 @@
 
 
 ## Organización
-Trello
+![Bootstrap](https://img.shields.io/badge/-Trello-05122A?style=flat-square&logo=Python&color=353538)
 Slack
 Calendly
 Discord
