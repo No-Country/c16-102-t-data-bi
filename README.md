@@ -47,7 +47,7 @@ Este proyecto tiene como objetivo utilizar el poder de los datos para aumentar l
 
 El objetivo del proyecto es el "Análisis de Adopciones y Abandono de Mascotas" es desarrollar un dasboard que permita al equipo de adopción del refugio de animales gestionar de manera eficiente el proceso de adopción y seguimiento de mascotas.
 
-Este dashboard diseñado deberá abordar las necesidades y requerimientos identificados en las user stories confeccionadas en la etapa inicial. [LINK](https://github.com/No-Country/c16-102-t-data-bi/blob/limpieza-datos/userstories.rtf.).
+Este dashboard diseñado deberá abordar las necesidades y requerimientos identificados en las user stories confeccionadas en la etapa inicial. [LINK](https://github.com/No-Country/c16-102-t-data-bi/blob/limpieza-datos/userstories.rtf).
 
 Al abordar estos aspectos, el dashboard logrará su objetivo de proporcionar al equipo de adopción del refugio de animales una herramienta efectiva para gestionar el proceso de adopción y seguimiento de mascotas, mejorando así la eficiencia y la experiencia tanto para el equipo como para los adoptantes potenciales.
 
