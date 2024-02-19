@@ -90,7 +90,7 @@ En este proyecto, hemos utilizado las siguientes tecnologías:
 <img src="https://static-00.iconduck.com/assets.00/linkedin-original-icon-256x256-bckcotyp.png" width="32">
 <img src="https://static-00.iconduck.com/assets.00/linkedin-original-icon-256x256-bckcotyp.png" width="32">
 <img src="https://static-00.iconduck.com/assets.00/linkedin-original-icon-256x256-bckcotyp.png" width="32">
-
+<![WhatsApp Image 2024-02-19 at 6 21 20 PM](https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/fc428e11-2069-4f78-8eb2-65761a25f499)>
 
 <!--
 **facu-cuello/facu-cuello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
