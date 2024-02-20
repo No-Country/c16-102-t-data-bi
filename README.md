@@ -50,7 +50,9 @@ En este proyecto, hemos utilizado las siguientes tecnologías:
    - ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
    - ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-## Equipo :man: :woman: :man: :woman:  :woman: 
+<!-- Equipo -->
+
+# <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnI1cnNhZjFycHMyNjdpMWdseXc4Z2phcnIwczlxY2dub3Frem93eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iMkRw8yN5thrbtvcZM/giphy.gif" width="30px"> Equipo</div>
 
 **Miranda Lucas [@x3naroth](https://www.github.com/x3naroth):**
 
