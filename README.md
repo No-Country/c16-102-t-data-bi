@@ -91,7 +91,7 @@ En este proyecto, hemos utilizado las siguientes tecnologías:
 <img src="https://static-00.iconduck.com/assets.00/linkedin-original-icon-256x256-bckcotyp.png" width="32">
 <img src="https://static-00.iconduck.com/assets.00/linkedin-original-icon-256x256-bckcotyp.png" width="32">
 
-<img src="WhatsApp Image 2024-02-19 at 6.21.20 PM.jpeg">
+<imag src="https://github.com/No-Country/c16-102-t-data-bi/blob/18f77a293cf4425e6e69c79eb520c9543dda1da9/WhatsApp%20Image%202024-02-19%20at%206.21.20%20PM.jpeg">
 
 
 
