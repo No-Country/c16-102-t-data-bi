@@ -34,9 +34,16 @@
 
 - Analista BI
 
-**Tapia Estefanía [@TefiTapia](https://www.github.com/TefiTapia):**
-- Analista de datos
-- Analista BI
+|Imagen 1|Imagen 2|<img src="https://github.com/No-Country/c16-102-t-data-bi/blob/18f77a293cf4425e6e69c79eb520c9543dda1da9/WhatsApp%20Image%202024-02-19%20at%206.21.20%20PM.jpeg" width="150">|Imagen 2|Imagen 3|
+| ------------------------------------------| ------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
+|<p align="center">*Machine Learning*</p>|<p align="center">*Data Analytics*</p>|<p align="center">*Data Analytics*</p>|<p align="center">*Data Analytics*</p>|<p align="center">*ETL*</p>|
+|<p align="center">**Lucas Miranda**</p>|<p align="center">**Dora Castillo**</p>|<p align="center">**Estefania Tapia**</p>|<p align="center">**Ariza Laura**</p>|<p align="center">**Facundo Cuello**</p>|
+|<p align="center">![www.linkedin.com/in/estefania-eugenia-tapia-25483a155](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </p>|<p align="center">![www.linkedin.com/in/estefania-eugenia-tapia-25483a155](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </p>|<p align="center">![www.linkedin.com/in/estefania-eugenia-tapia-25483a155](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </p>|<p align="center">![www.linkedin.com/in/estefania-eugenia-tapia-25483a155](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </p>|<p align="center">![www.linkedin.com/in/estefania-eugenia-tapia-25483a155](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </p>|
+|<p align="center">![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)</p>|<p align="center">![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)</p>|<p align="center">![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)</p>|<p align="center">![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)</p>|<p align="center">![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)</p>|
+
+  
+  
+  
   
 **Facundo Cuello [@facu-cuello](https://www.github.com/facu-cuello):**
 
@@ -90,7 +97,6 @@ En este proyecto, hemos utilizado las siguientes tecnologías:
 <img src="https://static-00.iconduck.com/assets.00/linkedin-original-icon-256x256-bckcotyp.png" width="32">
 <img src="https://static-00.iconduck.com/assets.00/linkedin-original-icon-256x256-bckcotyp.png" width="32">
 <img src="https://static-00.iconduck.com/assets.00/linkedin-original-icon-256x256-bckcotyp.png" width="32">
-
 
 
 
