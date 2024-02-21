@@ -83,6 +83,9 @@ En este proyecto, hemos utilizado las siguientes tecnologías:
 ![Portada Perfil de Linkedin Profesional Moderno Oscuro (6)](https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/b5b07521-24aa-4e33-bf84-76aa88cc04e4)
 
 
+![Portada Perfil de Linkedin Profesional Moderno Oscuro (7)](https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/38099168-a3b6-4fca-a1b2-ebd45db248b6)
+
+
 
 
 
