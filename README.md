@@ -57,7 +57,7 @@ En este proyecto, hemos utilizado las siguientes tecnologías:
 
 
 
-|Imagen 1|Imagen 2|<img src="https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/0899d4a3-c458-425c-a11a-dddc30ab6a65" width="150">|<img src="https://avatars.githubusercontent.com/u/141186370?s=400&u=311a5491d6eb61b0cc383f009b350ef50bac2d15&v=4" width="150" style="border-radius: 50%;">|Imagen 3|
+|<img src="https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/99cdb3ce-3ca5-4e86-935f-16ab3df2bfe7" width="150">|<img src="https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/1a1d149a-674a-400d-8e9c-cd010418a7aa" width="150">|<img src="https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/0899d4a3-c458-425c-a11a-dddc30ab6a65" width="150">|<img src="https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/0dd73c38-1193-44f2-a39f-b4957f830bd7" width="150">|<img src="https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/2c27e43d-2b9f-473c-99c9-b59bfd967e65" width="150">|
 | ------------------------------------------| ------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
 |<p align="center">*Machine Learning*</p>|<p align="center">*Data Science*</p>|<p align="center">*Data Analytics & BI*</p>|<p align="center">*Data Analytics & BI*</p>|<p align="center">*ETL Developer*</p>|
 |<p align="center">**Lucas Miranda**</p>|<p align="center">**Dora Castillo**</p>|<p align="center">**Estefania Tapia**</p>|<p align="center">**Laura Ariza**</p>|<p align="center">**Facundo Cuello**</p>|
