@@ -1,6 +1,6 @@
 <div align="center">
 
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/fNv9yf7/cat-perry.png" alt="cat-perry" style="width: 40%" ></a>
+![Portada Perfil de Linkedin Profesional Moderno Oscuro](https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/439e0c7d-d7ca-4a60-9d43-8cc6196a4df9) </a>
 
 <h3 align="center">Bienvenid@s a Cat & Perry! </h3>
 <h4 align="center">🐶 Prediciendo Sonrisas 🐱</h4>
@@ -10,6 +10,7 @@
 *Somos un equipo dedicado a mejorar el bienestar animal mediante el análisis de datos y la predicción de adopciones de mascotas.*
 
 <!-- Acerca del proyecto -->
+
 
 # <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNiZjR4Z2l1dWRyNG1iZXFsZ2VqM3hwMXdpd3g1N24zbjdya2R2ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/F8in17ikkqwU6GU5uj/giphy.gif4ZrRpqbSaWoyZYRoCd/giphy.gif" width="30px"> Acerca del Proyecto</div>
 
