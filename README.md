@@ -65,6 +65,25 @@ En este proyecto, hemos utilizado las siguientes tecnologías:
 |<p align="center"> <a href="https://github.com/x3naroth" >![LUCAS](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)</p>|<p align="center"> <a href="https://github.com/docasti" >![DORA](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)</p>|<p align="center"> <a href="https://github.com/TefiTapia" >![TEFI](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)</p>|<p align="center"> <a href="https://github.com/laura-ariza" >[![LAU](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)](https://github.com/laura-ariza)</p>|<p align="center"> <a href="https://github.com/facu-cuello" >![FACU](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)</p>|<p align="center"> <a href="https://github.com/FrancoAntuna" >![FRANCO](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)</p>|
 
 
+<!--Esquema de trabajo-->
+
+# <div align="center">Esquema de Trabajo</div>
+
+
+
+![Portada Perfil de Linkedin Profesional Moderno Oscuro (3)](https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/5be63eec-0ffc-474f-bfcc-cdcd1f712595)
+
+
+![Portada Perfil de Linkedin Profesional Moderno Oscuro (4)](https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/92ad868c-2031-417d-9905-594041355bdf)
+
+
+![Portada Perfil de Linkedin Profesional Moderno Oscuro (5)](https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/ae410d6f-2dd8-479a-956a-872199ed2512)
+
+
+![Portada Perfil de Linkedin Profesional Moderno Oscuro (6)](https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/b5b07521-24aa-4e33-bf84-76aa88cc04e4)
+
+
+
 
 
 <!--
