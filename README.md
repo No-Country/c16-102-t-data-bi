@@ -159,6 +159,11 @@ En este proyecto, hemos utilizado las siguientes tecnologías:
   ![tres](https://github.com/No-Country/c16-102-t-data-bi/blob/facu/update%20-3years.jpg)
   ![cuatro](https://github.com/No-Country/c16-102-t-data-bi/blob/facu/update-4years.jpg)
 
+# Nulos Tabla intake
+- Encontramos
+![per](https://github.com/No-Country/c16-102-t-data-bi/blob/facu/1.%20detecto%20null%20a%20mano%20en%20intake.jpg)
+
+
 
 
 <!--
