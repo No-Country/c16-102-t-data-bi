@@ -68,5 +68,30 @@
   
 # Tabla intake
 ## Nulos Tabla intake
-- Encontramos
+- Encontramos nulos en la tabla **intake**. En el mismo tipo de columnas que existian la tabla outcome.
 ![per](https://github.com/No-Country/c16-102-t-data-bi/blob/facu/1.%20detecto%20null%20a%20mano%20en%20intake.jpg)
+
+- Observamso las clumnas unicas para realizar la imputacion
+
+![as](https://github.com/No-Country/c16-102-t-data-bi/blob/facu/2.%20sex%20upon%20detectado.jpg)
+
+- Es claro que imputaremos y lo encasillaremso en "Desconocido"
+
+![imp](https://github.com/No-Country/c16-102-t-data-bi/blob/facu/3.%20sex%20update.jpg)
+
+- En este caso para no modificar la muestra imputarems por el valr mas comun (moda) de la edad.
+
+![moda](https://github.com/No-Country/c16-102-t-data-bi/blob/facu/4.ver%20valores%20ageupon.jpg)
+
+![impu](https://github.com/No-Country/c16-102-t-data-bi/blob/facu/5.%20update%20age%20upon.jpg)
+
+## Unificando segmentos
+
+- En este caso encontramos que la columna "Otros" no esta bien definida y tenemos tambien "Desconocidos" por lo que procederemos a unirlos en la segmentacion "Otros" por una cuestion de orden
+
+![ot](https://github.com/No-Country/c16-102-t-data-bi/blob/facu/6.%20unknown.jpg)
+
+![xs](https://github.com/No-Country/c16-102-t-data-bi/blob/facu/7.%20other%20up.jpg)
+
+
+# Otros ajustes
