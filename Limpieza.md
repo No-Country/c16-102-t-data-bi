@@ -4,10 +4,16 @@
 
 ## Nulos
 - Comenzamos observando los nulos de ambas tablas
-  
-![Tabla2](https://github.com/No-Country/c16-102-t-data-bi/blob/facu/c04ec336-c620-4270-b9f3-9ebdffb885c6.jpeg)
 
-![Tabla1](https://github.com/No-Country/c16-102-t-data-bi/blob/facu/76b0f877-c9a5-4033-86dd-4debb0725f83.jpeg)
+
+<details>
+  <summary>Ver imagen</summary>
+  
+  <img src="https://github.com/No-Country/c16-102-t-data-bi/blob/facu/c04ec336-c620-4270-b9f3-9ebdffb885c6.jpeg" alt="Texto alternativo" width="75%">
+  <img src="https://github.com/No-Country/c16-102-t-data-bi/blob/facu/76b0f877-c9a5-4033-86dd-4debb0725f83.jpeg" alt="Texto alternativo" width="50%">
+</details>
+
+
 
 - Detectamos que solo hay 33 nulos en la tabla outcome
 
