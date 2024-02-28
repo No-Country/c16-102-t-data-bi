@@ -29,27 +29,7 @@
   Al abordar estos aspectos, el dashboard logrará su objetivo de proporcionar al equipo de adopción del refugio de animales una herramienta efectiva para gestionar el proceso de adopción y seguimiento de mascotas, mejorando así la eficiencia y la experiencia tanto para el equipo como para los adoptantes potenciales.
 </p>
 
-<!-- Herramientas Usadas -->
-# <div align="center"><img src="https://media0.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30px"> Herramientas Usadas </div>
-En este proyecto, hemos utilizado las siguientes tecnologías:
-- **Base de Datos y ETL**:
-  - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-- **Exploracion  y Visualización de Datos**:
-  - ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-- **Machine Learning**:
-  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  - ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-  - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
- 
-
-- **Organización**:
-   - ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-   - ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-   - ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 <!-- Equipo -->
 
@@ -85,7 +65,27 @@ En este proyecto, hemos utilizado las siguientes tecnologías:
 
 ![Portada Perfil de Linkedin Profesional Moderno Oscuro (7)](https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/38099168-a3b6-4fca-a1b2-ebd45db248b6)
 
+<!-- Herramientas Usadas -->
+# <div align="center"><img src="https://media0.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30px"> Herramientas Usadas </div>
+En este proyecto, hemos utilizado las siguientes tecnologías:
+- **Base de Datos y ETL**:
+  - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
+- **Exploracion  y Visualización de Datos**:
+  - ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+- **Machine Learning**:
+  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  - ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+  - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+ 
+
+- **Organización**:
+   - ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+   - ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+   - ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
 
