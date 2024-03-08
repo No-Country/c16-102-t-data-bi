@@ -96,7 +96,7 @@ En este proyecto, hemos utilizado las siguientes tecnologías:
 
 
 
-[🎦 Video - Enlace Youtube](https://www.youtube.com/watch?v=ks3OsCC_buM)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=ks3OsCC_buM)
 <!--
 **facu-cuello/facu-cuello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
