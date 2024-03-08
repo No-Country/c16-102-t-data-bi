@@ -92,7 +92,7 @@ En este proyecto, hemos utilizado las siguientes tecnologías:
 
 # <div align="center">Storytelling</div>
 
-![Portada ](https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/0d13bbee-d44d-4dce-9c11-420370c773e9)
+![Portada  (1)](https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/87ffe4df-f0ad-4c69-bf7b-6d51f2975097)
 
 
 
