@@ -94,9 +94,12 @@ En este proyecto, hemos utilizado las siguientes tecnologías:
 
 ![Portada  (1)](https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/87ffe4df-f0ad-4c69-bf7b-6d51f2975097)
 
+<table>
+  <tbody>
+<!-- YOUTUBE:START --><tr><td><img width="140px" src="https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/81a7f07e-023c-4e22-ab32-06ba7201d5a9"></a></td><td><a href="https://www.youtube.com/watch?v=ks3OsCC_buM">Presentación de nuestro MVP (C16-102-t-databi)</a><br/>March 08, 2024</td></tr>
+<tr><td><img width="140px" src="https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/4cc3c399-165e-46c5-adc9-a4738e5ac20f"></a></td><td><a href="https://app.powerbi.com/view?r=eyJrIjoiOTRjZjRkMGMtYWNmZC00MTM0LTgyMmMtN2EyZTY0NzVmNWM5IiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9">Visualización del dashboard en Power Bi (C16-102-t-databi)</a><br/>March 08, 2024</td></tr>
 
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=ks3OsCC_buM)
 <!--
 **facu-cuello/facu-cuello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
