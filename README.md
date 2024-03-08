@@ -88,7 +88,15 @@ En este proyecto, hemos utilizado las siguientes tecnologías:
    - ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
+<!--Storytellin-->
 
+# <div align="center">Storytelling</div>
+
+![Portada ](https://github.com/No-Country/c16-102-t-data-bi/assets/159388590/0d13bbee-d44d-4dce-9c11-420370c773e9)
+
+
+
+[🎦 Video - Enlace Youtube](https://www.youtube.com/watch?v=ks3OsCC_buM)
 <!--
 **facu-cuello/facu-cuello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
